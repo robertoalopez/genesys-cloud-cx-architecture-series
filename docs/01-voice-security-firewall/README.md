@@ -30,7 +30,8 @@ Instead of implementing the same validation logic in every inbound flow, this ap
 
 # 🏗️ High-Level Architecture
 
-> ![Uploading Voice Security Firewall and Call Blocking System with Common Module, Data Table and Loop.drawio.png…]()
+> <img width="2312" height="1765" alt="image" src="https://github.com/user-attachments/assets/e1c78be1-91d8-48aa-8371-bac4e4580e1a" />
+
 
 
 ---
