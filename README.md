@@ -4,8 +4,6 @@
 
 Practical architecture patterns, reusable Architect workflows, and real-world CCaaS implementation examples built with Genesys Cloud CX.
 
----
-
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Platform](https://img.shields.io/badge/Platform-Genesys%20Cloud%20CX-orange)
 ![Focus](https://img.shields.io/badge/Focus-Architecture-blue)
@@ -17,43 +15,32 @@ Practical architecture patterns, reusable Architect workflows, and real-world CC
 
 # 📖 Overview
 
-This repository contains a collection of practical **Genesys Cloud CX** use cases based on real-world contact center scenarios.
+Welcome to the **Genesys Cloud CX Architecture Series**.
 
-The goal is to demonstrate solution architecture, routing strategies, reusable Architect components, and implementation best practices that can be adapted for enterprise environments.
+This repository contains a collection of real-world Genesys Cloud CX architecture patterns, reusable Architect workflows, routing strategies, and implementation guides based on enterprise contact center scenarios.
 
-This repository is intended for:
-
-- Solution Architects
-- Contact Center Engineers
-- CCaaS Consultants
-- Genesys Cloud Developers
-- Technical Architects
-- IT Professionals interested in Contact Center technologies
+The objective is to share practical examples that demonstrate scalable, maintainable, and reusable CCaaS solution designs.
 
 ---
 
-# 🚀 Repository Contents
+# 🎯 Project Goals
 
-Each use case includes:
-
-- 🎨 Architecture Infographic
-- 📐 High-Level Architecture Diagram
-- 📘 Technical Implementation Guide
-- 📸 Architect Screenshots
-- 🔄 Call Flow Explanation
-- 💼 Business Benefits
-- 📚 Official Documentation References
+- Share practical Genesys Cloud CX implementation examples.
+- Promote reusable Architect design patterns.
+- Document enterprise-ready routing solutions.
+- Demonstrate real-world contact center architectures.
+- Build a reusable technical knowledge base for the Genesys Cloud community.
 
 ---
 
-# 📂 Current Use Cases
+# 📚 Available Use Cases
 
 | Use Case | Description | Status |
 |----------|-------------|--------|
 | Voice Security Firewall | Protect inbound call flows using reusable Architect components. | ✅ |
 | Schedule Check & Emergency Routing | Intelligent routing based on business hours, holidays, and emergency schedules. | ✅ |
 | VIP Customer Routing | Personalized routing for high-value customers. | 🚧 |
-| AI Agent Assist | AI-assisted customer interactions. | 🚧 |
+| AI Agent Assist | AI-powered customer assistance workflows. | 🚧 |
 | Salesforce Screen Pop | CRM integration using Data Actions. | 🚧 |
 
 ---
@@ -69,56 +56,38 @@ Each use case includes:
 - Call Routing
 - BYOC Cloud
 - Data Actions
-- Salesforce (Future Examples)
+- Salesforce
 - AWS (Future Examples)
 
 ---
 
-# 📁 Repository Structure
+# 💡 What You'll Find
 
-```
-genesys-cloud-cx-architecture-series
+Each use case includes:
 
-README.md
-
-docs/
-    01-Voice-Security-Firewall/
-    02-Schedule-Check-Emergency-Routing/
-    03-VIP-Customer-Routing/
-
-assets/
-    banner.png
-    logo.png
-    icons/
-```
-
----
-
-# 🎯 Project Goals
-
-This project aims to:
-
-- Share practical Genesys Cloud CX implementation examples.
-- Promote reusable Architect design patterns.
-- Document enterprise-ready routing solutions.
-- Provide technical references for learning and collaboration.
-- Build a collection of reusable CCaaS architectures.
+- 🖼 Architecture Infographic
+- 📐 High-Level Architecture Diagram
+- 📘 Technical Implementation Guide
+- 📸 Architect Screenshots
+- 🔄 Call Flow Explanation
+- 💼 Business Benefits
+- 📚 Official Documentation References
 
 ---
 
 # 📚 Official Documentation
 
-Whenever applicable, each use case references the official Genesys Cloud Resource Center documentation.
+Whenever applicable, each use case references the official Genesys Cloud Resource Center documentation and best practices.
 
 https://help.mypurecloud.com/
 
 ---
 
-# 🤝 Contributions
+# 🤝 Contributing
 
 Suggestions, improvements, and constructive feedback are always welcome.
 
-If you find this repository useful, feel free to star ⭐ the project.
+If you find this repository useful, consider giving it a ⭐.
 
 ---
 
