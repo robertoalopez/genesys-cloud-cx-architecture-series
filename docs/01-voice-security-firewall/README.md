@@ -32,6 +32,8 @@ Instead of implementing the same validation logic in every inbound flow, this ap
 
 > <img width="2312" height="1765" alt="image" src="https://github.com/user-attachments/assets/e1c78be1-91d8-48aa-8371-bac4e4580e1a" />
 
+<img width="1024" height="1536" alt="ChatGPT Image 29 jul 2026, 11_13_46 p m" src="https://github.com/user-attachments/assets/4f1a07c7-6fe5-42e1-a550-f806c8919211" />
+
 
 
 ---
